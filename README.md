@@ -35,5 +35,11 @@ React | Apollo | GraphQL
     npm install cors
 
 
+8.Adım
+    client klasörü içersinde yeni react projenizi oluşturusn
+
+    npx create-react-app my-app
+
+
 
 # client
